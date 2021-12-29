@@ -1,7 +1,7 @@
 # REDAXO in Rome
 
 REDAXO with Rome Frontend Toolchain:  
-https://romefrontend.dev/blog/2020/08/08/introducing-rome.html
+https://rome.tools/blog/2020/08/08/introducing-rome
 
 > Rome is designed to replace Babel, ESLint, Webpack, Prettier, Jest, and others.
 
